@@ -1,0 +1,96 @@
+﻿Docket Number,License Number,"Plant Name, Unit Number",2019 Capacity Factor (Percent),2018 Capacity Factor (Percent),2017 Capacity Factor (Percent),2016 Capacity Factor (Percent),2015 Capacity Factor (Percent)
+5000313,DPR-51,"Arkansas Nuclear One, Unit 1",87.00%,76.00%,87.00%,72.00%,82.00%
+5000368,NPF-6,"Arkansas Nuclear One, Unit 2",82.00%,82.00%,70.00%,94.00%,89.00%
+5000334,DPR-66,"Beaver Valley Power Station, Unit 1",91.00%,92.00%,99.00%,91.00%,90.00%
+5000412,NPF-73,"Beaver Valley Power Station, Unit 2",100.00%,90.00%,90.00%,97.00%,90.00%
+5000456,NPF-72,"Braidwood Station, Unit 1",94.00%,93.00%,98.00%,90.00%,93.00%
+5000457,NPF-77,"Braidwood Station, Unit 2",100.00%,92.00%,88.00%,95.00%,91.00%
+5000259,DPR-33,"Browns Ferry Nuclear Plant, Unit 1",99.00%,82.00%,97.00%,83.00%,94.00%
+5000260,DPR-52,"Browns Ferry Nuclear Plant, Unit 2",80.00%,97.00%,83.00%,94.00%,85.00%
+5000296,DPR-68,"Browns Ferry Nuclear Plant, Unit 3",94.00%,76.00%,93.00%,80.00%,92.00%
+5000325,DPR-71,"Brunswick Steam Electric Plant, Unit 1",92.00%,85.00%,93.00%,83.00%,93.00%
+5000324,DPR-62,"Brunswick Steam Electric Plant, Unit 2",85.00%,93.00%,82.00%,92.00%,81.00%
+5000454,NPF-37,"Byron Station, Unit 1",100.00%,94.00%,89.00%,97.00%,88.00%
+5000455,NPF-66,"Byron Station, Unit 2",95.00%,100.00%,89.00%,86.00%,94.00%
+5000483,NPF-30,Callaway Plant,86.00%,100.00%,77.00%,87.00%,96.00%
+5000317,DPR-53,"Calvert Cliffs Nuclear Power Plant, Unit 1",100.00%,92.00%,97.00%,89.00%,97.00%
+5000318,DPR-69,"Calvert Cliffs Nuclear Power Plant, Unit 2",92.00%,100.00%,91.00%,95.00%,86.00%
+5000413,NPF-35,"Catawba Nuclear Station, Unit 1",100.00%,93.00%,90.00%,97.00%,88.00%
+5000414,NPF-52,"Catawba Nuclear Station, Unit 2",92.00%,91.00%,96.00%,88.00%,86.00%
+5000461,NPF-62,"Clinton Power Station, Unit 1",87.00%,88.00%,84.00%,89.00%,87.00%
+5000397,NPF-21,Columbia Generating Station,88.00%,96.00%,77.00%,92.00%,78.00%
+5000445,NPF-87,"Comanche Peak Nuclear Power Plant, Unit 1",89.00%,100.00%,91.00%,92.00%,100.00%
+5000446,NPF-89,"Comanche Peak Nuclear Power Plant, Unit 2",94.00%,93.00%,68.00%,100.00%,88.00%
+5000298,DPR-46,Cooper Nuclear Station,100.00%,81.00%,99.00%,84.00%,97.00%
+5000346,NPF-3,"Davis-Besse Nuclear Power Station, Unit 1",98.00%,93.00%,97.00%,79.00%,97.00%
+5000275,DPR-80,"Diablo Canyon Nuclear Power Plant, Unit 1",89.00%,98.00%,81.00%,98.00%,87.00%
+5000323,DPR-82,"Diablo Canyon Nuclear Power Plant, Unit 2",75.00%,87.00%,95.00%,88.00%,95.00%
+5000315,DPR-58,"Donald C. Cook Nuclear Plant, Unit 1",79.00%,100.00%,72.00%,82.00%,78.00%
+5000316,DPR-74,"Donald C. Cook Nuclear Plant, Unit 2",84.00%,79.00%,104.00%,71.00%,79.00%
+5000237,DPR-19,"Dresden Nuclear Power Station, Unit 2",89.00%,99.00%,84.00%,91.00%,83.00%
+5000249,DPR-25,"Dresden Nuclear Power Station, Unit 3",99.00%,94.00%,91.00%,84.00%,89.00%
+5000331,DPR-49,Duane Arnold Energy Center,99.00%,93.00%,88.00%,79.00%,88.00%
+5000321,DPR-57,"Edwin I. Hatch Nuclear Plant, Unit 1",98.00%,91.00%,97.00%,93.00%,101.00%
+5000366,NPF-5,"Edwin I. Hatch Nuclear Plant, Unit 2",82.00%,95.00%,95.00%,101.00%,91.00%
+5000341,NPF-43,"Fermi, Unit 2",99.00%,75.00%,82.00%,86.00%,69.00%
+5000416,NPF-29,"Grand Gulf Nuclear Station, Unit 1",88.00%,57.00%,58.00%,47.00%,93.00%
+5000261,DPR-23,"H. B. Robinson Steam Electric Plant, Unit 2",94.00%,79.00%,88.00%,95.00%,85.00%
+5000354,NPF-57,"Hope Creek Generating Station, Unit 1",84.00%,90.00%,94.00%,85.00%,83.00%
+5000286,DPR-64,"Indian Point Nuclear Generating, Unit 3",91.00%,92.00%,78.00%,102.00%,86.00%
+5000333,DPR-59,James A. FitzPatrick Nuclear Power Plant,100.00%,89.00%,80.00%,76.00%,96.00%
+5000348,NPF-2,"Joseph M. Farley Nuclear Plant, Unit 1",91.00%,84.00%,100.00%,86.00%,86.00%
+5000364,NPF-8,"Joseph M. Farley Nuclear Plant, Unit 2",92.00%,99.00%,91.00%,90.00%,98.00%
+5000373,NPF-11,"LaSalle County Station, Unit  1",99.00%,92.00%,96.00%,89.00%,99.00%
+5000374,NPF-18,"LaSalle County Station, Unit  2",92.00%,98.00%,88.00%,95.00%,83.00%
+5000352,NPF-39,"Limerick Generating Station, Unit 1",99.00%,92.00%,100.00%,93.00%,100.00%
+5000353,NPF-85,"Limerick Generating Station, Unit 2",91.00%,99.00%,86.00%,101.00%,89.00%
+5000369,NPF-9,"McGuire Nuclear Station, Unit 1",90.00%,100.00%,90.00%,89.00%,95.00%
+5000370,NPF-17,"McGuire Nuclear Station, Unit 2",100.00%,92.00%,86.00%,97.00%,87.00%
+5000336,DPR-65,"Millstone Power Station, Unit 2",97.00%,82.00%,85.00%,93.00%,85.00%
+5000423,NPF-49,"Millstone Power Station, Unit 3",89.00%,100.00%,89.00%,83.00%,97.00%
+5000263,DPR-22,"Monticello Nuclear Generating Plant, Unit 1",88.00%,99.00%,86.00%,93.00%,78.00%
+5000220,DPR-63,"Nine Mile Point Nuclear Station, Unit 1",85.00%,99.00%,87.00%,96.00%,88.00%
+5000410,NPF-69,"Nine Mile Point Nuclear Station, Unit 2",99.00%,90.00%,101.00%,92.00%,100.00%
+5000338,NPF-4,"North Anna Power Station, Unit 1",93.00%,90.00%,99.00%,89.00%,91.00%
+5000339,NPF-7,"North Anna Power Station, Unit 2",88.00%,99.00%,89.00%,87.00%,99.00%
+5000269,DPR-38,"Oconee Nuclear Station, Unit 1",100.00%,90.00%,95.00%,83.00%,96.00%
+5000270,DPR-47,"Oconee Nuclear Station, Unit 2",90.00%,100.00%,88.00%,98.00%,89.00%
+5000287,DPR-55,"Oconee Nuclear Station, Unit 3",100.00%,92.00%,97.00%,91.00%,97.00%
+5000255,DPR-20,Palisades Nuclear Plant,97.00%,77.00%,86.00%,99.00%,89.00%
+5000528,NPF-41,"Palo Verde Nuclear Generating Station, Unit 1",90.00%,97.00%,85.00%,83.00%,94.00%
+5000529,NPF-51,"Palo Verde Nuclear Generating Station, Unit 2",98.00%,82.00%,86.00%,95.00%,85.00%
+5000530,NPF-74,"Palo Verde Nuclear Generating Station, Unit 3",87.00%,90.00%,92.00%,85.00%,85.00%
+5000277,DPR-44,"Peach Bottom Atomic Power Station, Unit 2",100.00%,94.00%,92.00%,96.00%,99.00%
+5000278,DPR-56,"Peach Bottom Atomic Power Station, Unit 3",93.00%,94.00%,86.00%,95.00%,75.00%
+5000440,NPF-58,"Perry Nuclear Power Plant, Unit 1",83.00%,99.00%,85.00%,91.00%,83.00%
+5000266,DPR-24,"Point Beach Nuclear Plant, Unit 1",91.00%,99.00%,86.00%,86.00%,92.00%
+5000301,DPR-27,"Point Beach Nuclear Plant, Unit 2",99.00%,94.00%,85.00%,94.00%,86.00%
+5000282,DPR-42,"Prairie Island Nuclear Generating Plant, Unit 1",99.00%,89.00%,88.00%,81.00%,77.00%
+5000306,DPR-60,"Prairie Island Nuclear Generating Plant, Unit 2",91.00%,100.00%,80.00%,78.00%,65.00%
+5000254,DPR-29,"Quad Cities Nuclear Power Station, Unit 1",91.00%,99.00%,85.00%,92.00%,83.00%
+5000265,DPR-30,"Quad Cities Nuclear Power Station, Unit 2",99.00%,92.00%,89.00%,85.00%,95.00%
+5000244,DPR-18,R.E. Ginna Nuclear Power Plant,99.00%,93.00%,87.00%,94.00%,89.00%
+5000458,NPF-47,"River Bend Station, Unit 1",76.00%,82.00%,77.00%,78.00%,76.00%
+5000335,DPR-67,"St. Lucie Plant, Unit 1",70.00%,91.00%,90.00%,73.00%,83.00%
+5000389,NPF-16,"St. Lucie Plant, Unit 2",100.00%,87.00%,84.00%,92.00%,77.00%
+5000272,DPR-70,"Salem Nuclear Generating Station, Unit 1",79.00%,100.00%,90.00%,68.00%,95.00%
+5000311,DPR-75,"Salem Nuclear Generating Station, Unit 2",99.00%,87.00%,85.00%,85.00%,85.00%
+5000443,NPF-86,"Seabrook Station, Unit 1",100.00%,92.00%,92.00%,99.00%,87.00%
+5000327,DPR-77,"Sequoyah Nuclear Plant, Unit 1",82.00%,89.00%,88.00%,71.00%,87.00%
+5000328,DPR-79,"Sequoyah Nuclear Plant, Unit 2",99.00%,88.00%,83.00%,90.00%,73.00%
+5000400,NPF-63,"Shearon Harris Nuclear Power Plant, Unit 1",89.00%,89.00%,99.00%,90.00%,87.00%
+5000498,NPF-76,"South Texas Project, Unit 1",100.00%,89.00%,85.00%,95.00%,78.00%
+5000499,NPF-80,"South Texas Project, Unit 2",91.00%,90.00%,97.00%,88.00%,85.00%
+5000280,DPR-32,"Surry Power Station, Unit 1",88.00%,87.00%,101.00%,96.00%,76.00%
+5000281,DPR-37,"Surry Power Station, Unit 2",100.00%,88.00%,93.00%,101.00%,82.00%
+5000387,NPF-14,"Susquehanna Steam Electric Station, Unit 1",99.00%,86.00%,97.00%,77.00%,76.00%
+5000388,NPF-22,"Susquehanna Steam Electric Station, Unit 2",89.00%,99.00%,86.00%,93.00%,82.00%
+5000250,DPR-31,Turkey Point Nuclear Generating Unit No. 3,99.00%,89.00%,80.00%,93.00%,78.00%
+5000251,DPR-41,Turkey Point Nuclear Generating Unit No. 4,91.00%,100.00%,98.00%,99.00%,106.00%
+5000395,NPF-12,"Virgil C. Summer Nuclear Station, Unit 1",95.00%,85.00%,77.00%,96.00%,79.00%
+5000424,NPF-68,"Vogtle Electric Generating Plant, Unit 1",100.00%,93.00%,93.00%,101.00%,91.00%
+5000425,NPF-81,"Vogtle Electric Generating Plant, Unit 2",92.00%,100.00%,96.00%,94.00%,100.00%
+5000382,NPF-38,"Waterford Steam Electric Station, Unit 3",74.00%,100.00%,80.00%,96.00%,80.00%
+5000390,NPF-90,"Watts Bar Nuclear Plant, Unit 1",86.00%,87.00%,77.00%,85.00%,76.00%
+5000391,NPF-96,"Watts Bar Nuclear Plant, Unit 2",88.00%,95.00%,45.00%,26.00%,0.00%
+5000482,NPF-42,"Wolf Creek Generating Station, Unit 1",87.00%,86.00%,96.00%,74.00%,78.00%
